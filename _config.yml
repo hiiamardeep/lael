@@ -2,4 +2,5 @@ title: lael
 description: Stories, thoughts, and reflections
 theme: null
 markdown: kramdown
+baseurl: "/lael"
 permalink: /blog/:title/
